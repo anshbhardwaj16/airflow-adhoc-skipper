@@ -1,0 +1,9 @@
+README.md
+setup.py
+airflow_adhoc_skipper/__init__.py
+airflow_adhoc_skipper.egg-info/PKG-INFO
+airflow_adhoc_skipper.egg-info/SOURCES.txt
+airflow_adhoc_skipper.egg-info/dependency_links.txt
+airflow_adhoc_skipper.egg-info/requires.txt
+airflow_adhoc_skipper.egg-info/top_level.txt
+tests/test_skip_adhoc.py

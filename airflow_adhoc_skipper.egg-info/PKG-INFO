@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: airflow-adhoc-skipper
+Version: 0.1.0
+Summary: Utility operator to skip unpause-triggered adhoc Airflow DAG runs
+Author: Your Name
+Requires-Dist: apache-airflow>=2.6
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
